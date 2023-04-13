@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    color:white ;
+}
+.heading{
+    width:100% ;
+    font-size: 25px;
+    
+}
+#camera{
+    border: 2px dashed orange;
+    width: 350px;
+    height: 300px;
+
+}
+.name_of_objects{
+    color:pink;
+    font-family: fantasy;
+    font-size: medium;
+    font-style: italic;
+}
+#result_object_name{
+    color: magenta;
+    font-family: fantasy;
+    font-size: large;
+    font-style: italic;
+
+}
+#result_object_accuracy{
+    color: red;
+    font-family: fantasy;
+    font-size: large;
+    font-style: italic;
+
+}
